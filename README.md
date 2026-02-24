@@ -50,4 +50,5 @@ All outputs are automatically saved into `figures/` and `tables/`.
 ## Author
 
 Gulnara Sadykova  
+Alnur Zhussupov
 Master's in Economics and econometrics
