@@ -2,7 +2,7 @@
 
 This project analyzes the volatility dynamics of the SPDR Gold Shares ETF (GLD) using GARCH-family models and evaluates Value-at-Risk (VaR) forecasts.
 
-The work was completed as a take-home assignment for a Financial Time Series course
+The work was completed as a take-home assignment for a Financial and Time Series Econometrics course, University of Bologna (2025),
 and focuses on empirical volatility modeling and risk forecasting.
 
 ## Project Overview
@@ -39,17 +39,9 @@ Run scripts in order:
 
 All outputs are automatically saved into `figures/` and `tables/`.
 
-## Methods
+## Authors
 
-- Log-return computation
-- Stylized facts diagnostics
-- sGARCH and GJR-GARCH models
-- Student-t innovations
-- VaR forecasting and Kupiec backtesting
-
-## Author
-
-Gulnara Sadykova  
+Gulnara Sadykova, https://github.com/gulnarasadykova-kaz
 Alnur Zhussupov
 
-Master's in Economics and econometrics
+Master's in Economics and Econometrics
